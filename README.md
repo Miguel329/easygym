@@ -1,3 +1,2 @@
 # easygym
-
-prueba
+Paola Camelo
